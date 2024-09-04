@@ -1,0 +1,32 @@
+  #goog-gt-tt{
+    visibility: hidden!important;
+    display: none!important;
+  }
+  body {
+    top: 0 !important;
+  }
+  .skiptranslate {
+    display: none;
+    height: 0;
+  }
+  .language__img {
+    cursor: pointer;
+  }
+  .goog-gt-tt{
+    display: none;
+    height: 0;
+  }
+  * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box
+  }
+  .goog-text-highlight{
+    background-color:transparent!important;
+    -webkit-box-shadow: unset!important;
+    -moz-box-shadow: unset!important;
+    box-shadow: unset!important;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    position: unset!important
+  }
